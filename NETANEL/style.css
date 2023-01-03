@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-color: silver;
+  font-family: Verdana;
+  direction: ltr;
+}
+.all_site {
+  background-color: white;
+  margin: 0 auto;
+}
+.blocks {
+  width: 450px;
+  height: 450px;
+  background-color: black;
+  margin: 0 auto;
+}
+.box {
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+  background-color: #c1c1c1;
+  float: left;
+  box-sizing: border-box;
+}
+
+.img {
+  width: 150px;
+  height: 150px;
+}
